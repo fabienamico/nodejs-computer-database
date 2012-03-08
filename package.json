@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-computer-database",
+  "description": "Sample application ussing nodejs backbonejs ",
+  "author": "<fabienamico@gmail.com>",
+	"version": "0.0.1",
+  "dependencies": {
+    "restify": ">= 1.1.1",
+    "sequelize": ">= 1.3.6"
+  },
+  "engine": "node 0.6.11"
+}
